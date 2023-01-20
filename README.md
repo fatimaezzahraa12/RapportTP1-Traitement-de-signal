@@ -17,4 +17,6 @@ Manipulation 1:Représentation temporelle et fréquentielle .
 
 -On considère un signal sinusouidal composé de trois fréquences dont les valeurs sont respectivement 440 Hz,550Hz et 2500Hz.
 La première opération à faire est effectuer un échantillonnage du signal avec une fréquence d'échantillonage de 10000Hz.Pour ceci ,on prend 5000 valeurs qui représentent le nombre d'échantillons souhaités.
-![image](https://user-images.githubusercontent.com/120644217/213785578-e12e3f78-3d32-4683-9a80-a00ee00ac640.png)
+     
+     
+     ![image](https://user-images.githubusercontent.com/120644217/213785578-e12e3f78-3d32-4683-9a80-a00ee00ac640.png)
